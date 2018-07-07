@@ -1,0 +1,4 @@
+#Fri Jul 06 17:58:15 PDT 2018
+base.0=/Users/rgdagir/AndroidStudioProjects/android-rest-client-template-master/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
