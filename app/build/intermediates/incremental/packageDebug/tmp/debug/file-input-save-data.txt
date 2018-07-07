@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Fri Jul 06 17:58:15 PDT 2018
+#Fri Jul 06 18:08:34 PDT 2018
 0.baseType=DIRECTORY
-0.base=/Users/rgdagir/AndroidStudioProjects/android-rest-client-template-master/app/build/intermediates/transforms/dexMerger/debug/0
+0.base=/Users/rgdagir/AndroidStudioProjects/Twitter-Client/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1

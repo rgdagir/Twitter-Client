@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rgdagir/AndroidStudioProjects/android-rest-client-template-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/rgdagir/AndroidStudioProjects/Twitter-Client/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/rgdagir/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/1d788a948e25e53b7c581574da563004/res/values-v21/values-v21.xml",
